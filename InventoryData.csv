@@ -1,0 +1,228 @@
+﻿ItemNumber,Sum of OnHandQuantity,Sum of OrderedQuantity,ProductName,ProductSizeId,Sum of TotalAvailableQuantity,Sum of ReservedOrderedQuantity,Sum of ReservedOnHandQuantity,Sum of AvailableOnHandQuantity,Sum of AvailableOrderedQuantity
+0140,803,0,Boys T-Shirt,Large,803,0,0,803,0
+0140,796,0,Boys T-Shirt,Medium,796,0,0,796,0
+0140,796,0,Boys T-Shirt,Small,796,0,0,796,0
+0140,796,0,Boys T-Shirt,XLarge,796,0,0,796,0
+0140,796,0,Boys T-Shirt,XSmall,796,0,0,796,0
+0141,800,0,Girls T-Shirt,Large,800,0,0,800,0
+0141,796,0,Girls T-Shirt,Medium,796,0,0,796,0
+0141,796,0,Girls T-Shirt,Small,796,0,0,796,0
+0141,796,0,Girls T-Shirt,XLarge,796,0,0,796,0
+0141,796,0,Girls T-Shirt,XSmall,796,0,0,796,0
+0142,663,0,Childrens Sweatshirt,Large,663,0,0,663,0
+0142,652,0,Childrens Sweatshirt,Medium,652,0,0,652,0
+0142,652,0,Childrens Sweatshirt,Small,652,0,0,652,0
+0142,652,0,Childrens Sweatshirt,XLarge,652,0,0,652,0
+0142,652,0,Childrens Sweatshirt,XSmall,652,0,0,652,0
+0143,739,0,Girls Athletic Tank Top,Large,739,0,0,739,0
+0143,732,0,Girls Athletic Tank Top,Medium,732,0,0,732,0
+0143,732,0,Girls Athletic Tank Top,Small,732,0,0,732,0
+0143,732,0,Girls Athletic Tank Top,XLarge,732,0,0,732,0
+0143,732,0,Girls Athletic Tank Top,XSmall,732,0,0,732,0
+0144,852,0,Childrens Fleece Crew,Large,852,0,0,852,0
+0144,848,0,Childrens Fleece Crew,Medium,848,0,0,848,0
+0144,848,0,Childrens Fleece Crew,Small,848,0,0,848,0
+0144,848,0,Childrens Fleece Crew,XLarge,848,0,0,848,0
+0144,848,0,Childrens Fleece Crew,XSmall,848,0,0,848,0
+0145,587,0,Childrens Athletic Pants,Large,587,0,0,587,0
+0145,576,0,Childrens Athletic Pants,Medium,576,0,0,576,0
+0145,576,0,Childrens Athletic Pants,Small,576,0,0,576,0
+0145,576,0,Childrens Athletic Pants,XLarge,576,0,0,576,0
+0145,576,0,Childrens Athletic Pants,XSmall,576,0,0,576,0
+0146,602,0,Childrens Insulated Snow Pants,Large,602,0,0,602,0
+0146,597,0,Childrens Insulated Snow Pants,Medium,597,0,0,597,0
+0146,597,0,Childrens Insulated Snow Pants,Small,597,0,0,597,0
+0146,597,0,Childrens Insulated Snow Pants,XLarge,597,0,0,597,0
+0146,597,0,Childrens Insulated Snow Pants,XSmall,597,0,0,597,0
+0147,1570,0,Mens Adjustable Cap,"",1570,0,0,1570,0
+0148,160,0,Mens Visor,Large,160,0,0,160,0
+0148,156,0,Mens Visor,Medium,156,0,0,156,0
+0148,156,0,Mens Visor,Small,156,0,0,156,0
+0148,156,0,Mens Visor,XLarge,156,0,0,156,0
+0148,156,0,Mens Visor,XSmall,156,0,0,156,0
+0149,192,0,Straw Golf Hat,Large,192,0,0,192,0
+0149,183,0,Straw Golf Hat,Medium,183,0,0,183,0
+0149,183,0,Straw Golf Hat,Small,183,0,0,183,0
+0149,183,0,Straw Golf Hat,XLarge,183,0,0,183,0
+0149,183,0,Straw Golf Hat,XSmall,183,0,0,183,0
+0150,1635,0,Mens Knit Cap,"",1635,0,0,1635,0
+0156,656,0,Mens Fleece Jacket,Large,656,0,0,656,0
+0156,648,0,Mens Fleece Jacket,Medium,648,0,0,648,0
+0156,648,0,Mens Fleece Jacket,Small,648,0,0,648,0
+0156,648,0,Mens Fleece Jacket,XLarge,648,0,0,648,0
+0156,648,0,Mens Fleece Jacket,XSmall,648,0,0,648,0
+0157,606,0,Mens Rain Jacket,Large,606,0,0,606,0
+0157,597,0,Mens Rain Jacket,Medium,597,0,0,597,0
+0157,597,0,Mens Rain Jacket,Small,597,0,0,597,0
+0157,597,0,Mens Rain Jacket,XLarge,597,0,0,597,0
+0157,597,0,Mens Rain Jacket,XSmall,597,0,0,597,0
+0158,173,0,Mens Thin Cushion Crew Sock,"",173,0,0,173,0
+0159,182,0,Mens Sneaker,10,182,0,0,182,0
+0159,175,0,Mens Sneaker,10.5,175,0,0,175,0
+0159,175,0,Mens Sneaker,11,175,0,0,175,0
+0159,175,0,Mens Sneaker,11.5,175,0,0,175,0
+0159,175,0,Mens Sneaker,7,175,0,0,175,0
+0159,175,0,Mens Sneaker,7.5,175,0,0,175,0
+0159,175,0,Mens Sneaker,8,175,0,0,175,0
+0159,175,0,Mens Sneaker,8.5,175,0,0,175,0
+0159,175,0,Mens Sneaker,9,175,0,0,175,0
+0159,175,0,Mens Sneaker,9.5,175,0,0,175,0
+0165,554,0,Mens Warmup Pants,Large,554,0,0,554,0
+0165,548,0,Mens Warmup Pants,Medium,548,0,0,548,0
+0165,548,0,Mens Warmup Pants,Small,548,0,0,548,0
+0165,548,0,Mens Warmup Pants,XLarge,548,0,0,548,0
+0165,548,0,Mens Warmup Pants,XSmall,548,0,0,548,0
+0166,753,0,Mens Mesh Lined Pants,Large,753,0,0,753,0
+0166,744,0,Mens Mesh Lined Pants,Medium,744,0,0,744,0
+0166,744,0,Mens Mesh Lined Pants,Small,744,0,0,744,0
+0166,744,0,Mens Mesh Lined Pants,XLarge,744,0,0,744,0
+0166,744,0,Mens Mesh Lined Pants,XSmall,744,0,0,744,0
+0167,588,0,Mens Snow Pants,Large,588,0,0,588,0
+0167,584,0,Mens Snow Pants,Medium,584,0,0,584,0
+0167,584,0,Mens Snow Pants,Small,584,0,0,584,0
+0167,584,0,Mens Snow Pants,XLarge,584,0,0,584,0
+0167,584,0,Mens Snow Pants,XSmall,584,0,0,584,0
+0168,1577,0,Mens Cotton Tanktop,Large,1577,0,0,1577,0
+0168,1568,0,Mens Cotton Tanktop,Medium,1568,0,0,1568,0
+0168,784,0,Mens Cotton Tanktop,Small,784,0,0,784,0
+0169,1496,0,Mens Striped Polo,Large,1496,0,0,1496,0
+0169,1488,0,Mens Striped Polo,Medium,1488,0,0,1488,0
+0169,744,0,Mens Striped Polo,Small,744,0,0,744,0
+0170,770,0,Womens Warmup Pants,Large,770,0,0,770,0
+0170,764,0,Womens Warmup Pants,Medium,764,0,0,764,0
+0170,764,0,Womens Warmup Pants,Small,764,0,0,764,0
+0170,764,0,Womens Warmup Pants,XLarge,764,0,0,764,0
+0170,764,0,Womens Warmup Pants,XSmall,764,0,0,764,0
+0171,779,0,Womens Mesh Lined Pants,Large,779,0,0,779,0
+0171,768,0,Womens Mesh Lined Pants,Medium,768,0,0,768,0
+0171,768,0,Womens Mesh Lined Pants,Small,768,0,0,768,0
+0171,768,0,Womens Mesh Lined Pants,XLarge,768,0,0,768,0
+0171,768,0,Womens Mesh Lined Pants,XSmall,768,0,0,768,0
+0172,725,0,Womens Snow Pants,Large,725,0,0,725,0
+0172,716,0,Womens Snow Pants,Medium,716,0,0,716,0
+0172,716,0,Womens Snow Pants,Small,716,0,0,716,0
+0172,716,0,Womens Snow Pants,XLarge,716,0,0,716,0
+0172,716,0,Womens Snow Pants,XSmall,716,0,0,716,0
+0173,1639,0,Womens Cotton Tanktop,Large,1639,0,0,1639,0
+0173,1632,0,Womens Cotton Tanktop,Medium,1632,0,0,1632,0
+0173,816,0,Womens Cotton Tanktop,Small,816,0,0,816,0
+0174,1535,0,Womens Striped Polo,Large,1535,0,0,1535,0
+0174,1528,0,Womens Striped Polo,Medium,1528,0,0,1528,0
+0174,764,0,Womens Striped Polo,Small,764,0,0,764,0
+0178,186,0,Mens Cushioned Socks (3-pack),"",186,0,0,186,0
+0179,198,0,Mens Low Cut Athletic Socks,"",198,0,0,198,0
+0180,199,0,Mens Knee High Athletic Socks,"",199,0,0,199,0
+92010,140,70,Lightweight Trim Fit V-Neck Sweater,L,210,0,0,140,70
+92010,140,70,Lightweight Trim Fit V-Neck Sweater,M,210,0,0,140,70
+92010,140,70,Lightweight Trim Fit V-Neck Sweater,S,210,0,0,140,70
+92010,130,65,Lightweight Trim Fit V-Neck Sweater,XL,195,0,0,130,65
+92010,130,65,Lightweight Trim Fit V-Neck Sweater,XXL,195,0,0,130,65
+92011,80,40,Diamond Dual Color V-Neck Sweater,L,120,0,0,80,40
+92011,80,40,Diamond Dual Color V-Neck Sweater,M,120,0,0,80,40
+92011,80,40,Diamond Dual Color V-Neck Sweater,S,120,0,0,80,40
+92011,80,40,Diamond Dual Color V-Neck Sweater,XL,120,0,0,80,40
+92011,80,40,Diamond Dual Color V-Neck Sweater,XXL,120,0,0,80,40
+92059,160,80,Casual Fit Button-Down Shirt,14.5 - 31,240,0,0,160,80
+92059,160,80,Casual Fit Button-Down Shirt,14.5 - 32,240,0,0,160,80
+92059,160,80,Casual Fit Button-Down Shirt,14.5 - 33,240,0,0,160,80
+92059,160,80,Casual Fit Button-Down Shirt,15 - 31,240,0,0,160,80
+92059,80,40,Casual Fit Button-Down Shirt,15 - 32,120,0,0,80,40
+92059,80,40,Casual Fit Button-Down Shirt,15.5 - 31,120,0,0,80,40
+92059,80,40,Casual Fit Button-Down Shirt,15.5 - 32,120,0,0,80,40
+92059,80,40,Casual Fit Button-Down Shirt,15.5 - 33,120,0,0,80,40
+92059,120,60,Casual Fit Button-Down Shirt,16 - 32,180,0,0,120,60
+92059,120,60,Casual Fit Button-Down Shirt,16 - 33,180,0,0,120,60
+92059,120,60,Casual Fit Button-Down Shirt,16 - 34,180,0,0,120,60
+92059,160,80,Casual Fit Button-Down Shirt,16.5 - 32,240,0,0,160,80
+92059,80,40,Casual Fit Button-Down Shirt,16.5 - 33,120,0,0,80,40
+92059,100,50,Casual Fit Button-Down Shirt,16.5 - 34,150,0,0,100,50
+92059,100,50,Casual Fit Button-Down Shirt,17 - 33,150,0,0,100,50
+92059,90,45,Casual Fit Button-Down Shirt,17 - 34,135,0,0,90,45
+92059,168,84,Casual Fit Button-Down Shirt,17 - 35,252,0,0,168,84
+92067,70,35,Relaxed Fit Acid Wash Jeans,30 x 30,105,0,0,70,35
+92067,70,35,Relaxed Fit Acid Wash Jeans,30 x 32,105,0,0,70,35
+92067,70,35,Relaxed Fit Acid Wash Jeans,30 x 34,105,0,0,70,35
+92067,140,70,Relaxed Fit Acid Wash Jeans,32 x 30,210,0,0,140,70
+92067,140,70,Relaxed Fit Acid Wash Jeans,32 x 32,210,0,0,140,70
+92067,140,70,Relaxed Fit Acid Wash Jeans,32 x 34,210,0,0,140,70
+92067,140,70,Relaxed Fit Acid Wash Jeans,34 x 30,210,0,0,140,70
+92067,140,70,Relaxed Fit Acid Wash Jeans,34 x 32,210,0,0,140,70
+92067,140,70,Relaxed Fit Acid Wash Jeans,34 x 34,210,0,0,140,70
+92067,140,70,Relaxed Fit Acid Wash Jeans,36 x 30,210,0,0,140,70
+92067,140,70,Relaxed Fit Acid Wash Jeans,36 x 32,210,0,0,140,70
+92067,140,70,Relaxed Fit Acid Wash Jeans,36 x 34,210,0,0,140,70
+92074,380,0,Suede Leather Slip-on Loafer,10,380,0,0,380,0
+92074,484,0,Suede Leather Slip-on Loafer,10.5,484,0,0,484,0
+92074,444,0,Suede Leather Slip-on Loafer,11,444,0,0,444,0
+92074,472,0,Suede Leather Slip-on Loafer,11.5,472,0,0,472,0
+92074,416,0,Suede Leather Slip-on Loafer,12,416,0,0,416,0
+92074,160,0,Suede Leather Slip-on Loafer,13,160,0,0,160,0
+92074,230,0,Suede Leather Slip-on Loafer,13.5,230,0,0,230,0
+92074,352,0,Suede Leather Slip-on Loafer,7,352,0,0,352,0
+92074,346,0,Suede Leather Slip-on Loafer,7.5,346,0,0,346,0
+92074,230,0,Suede Leather Slip-on Loafer,8,230,0,0,230,0
+92074,356,0,Suede Leather Slip-on Loafer,8.5,355,0,0,356,0
+92074,174,0,Suede Leather Slip-on Loafer,9,174,0,0,174,0
+92074,442,0,Suede Leather Slip-on Loafer,9.5,442,0,0,442,0
+92078,260,0,Grand Cap Toe Leather Oxfords,10,260,0,0,260,0
+92078,186,0,Grand Cap Toe Leather Oxfords,10.5,186,0,0,186,0
+92078,122,0,Grand Cap Toe Leather Oxfords,11,122,0,0,122,0
+92078,140,0,Grand Cap Toe Leather Oxfords,11.5,140,0,0,140,0
+92078,190,0,Grand Cap Toe Leather Oxfords,12,190,0,0,190,0
+92078,358,0,Grand Cap Toe Leather Oxfords,13,358,0,0,358,0
+92078,302,0,Grand Cap Toe Leather Oxfords,13.5,302,0,0,302,0
+92078,510,0,Grand Cap Toe Leather Oxfords,7,510,0,0,510,0
+92078,254,0,Grand Cap Toe Leather Oxfords,7.5,254,0,0,254,0
+92078,514,0,Grand Cap Toe Leather Oxfords,8,514,0,0,514,0
+92078,488,0,Grand Cap Toe Leather Oxfords,8.5,485,0,1,487,0
+92078,196,0,Grand Cap Toe Leather Oxfords,9,194,0,2,194,0
+92078,202,0,Grand Cap Toe Leather Oxfords,9.5,202,0,0,202,0
+92081,220,0,Black Leather Oxfords,10,220,0,0,220,0
+92081,94,0,Black Leather Oxfords,10.5,94,0,0,94,0
+92081,200,0,Black Leather Oxfords,11,200,0,0,200,0
+92081,198,0,Black Leather Oxfords,11.5,198,0,0,198,0
+92081,194,0,Black Leather Oxfords,12,194,0,0,194,0
+92081,186,0,Black Leather Oxfords,13,186,0,0,186,0
+92081,32,0,Black Leather Oxfords,13.5,32,0,0,32,0
+92081,110,0,Black Leather Oxfords,7,110,0,0,110,0
+92081,218,0,Black Leather Oxfords,7.5,218,0,0,218,0
+92081,76,0,Black Leather Oxfords,8,76,0,0,76,0
+92081,264,0,Black Leather Oxfords,8.5,264,0,0,264,0
+92081,348,0,Black Leather Oxfords,9,348,0,0,348,0
+92081,140,0,Black Leather Oxfords,9.5,140,0,0,140,0
+92090,100,50,Men's Relaxed Fit Canvas Pants,30 x 30,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,30 x 32,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,30 x 34,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,32 x 30,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,32 x 32,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,32 x 34,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,34 x 30,149,0,1,99,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,34 x 32,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,34 x 34,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,36 x 30,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,36 x 32,150,0,0,100,50
+92090,100,50,Men's Relaxed Fit Canvas Pants,36 x 34,150,0,0,100,50
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,30 x 30,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,30 x 32,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,30 x 34,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,32 x 30,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,32 x 32,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,32 x 34,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,34 x 30,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,34 x 32,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,34 x 34,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,36 x 30,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,36 x 32,195,0,0,130,65
+92091,130,65,Heavy Cotton Blend Sport Sweatpants,36 x 34,195,0,0,130,65
+92092,90,45,Grey Twill Dress Pants,30 x 30,135,0,0,90,45
+92092,112,56,Grey Twill Dress Pants,30 x 32,168,0,0,112,56
+92092,160,80,Grey Twill Dress Pants,30 x 34,240,0,0,160,80
+92092,159,80,Grey Twill Dress Pants,32 x 30,239,0,0,159,80
+92092,160,80,Grey Twill Dress Pants,32 x 32,240,0,0,160,80
+92092,160,80,Grey Twill Dress Pants,32 x 34,240,0,0,160,80
+92092,160,80,Grey Twill Dress Pants,34 x 30,240,0,0,160,80
+92092,160,80,Grey Twill Dress Pants,34 x 32,240,0,0,160,80
+92092,160,80,Grey Twill Dress Pants,34 x 34,240,0,0,160,80
+92092,160,80,Grey Twill Dress Pants,36 x 30,240,0,0,160,80
+92092,160,80,Grey Twill Dress Pants,36 x 32,240,0,0,160,80
+92092,160,80,Grey Twill Dress Pants,36 x 34,240,0,0,160,80
